@@ -120,3 +120,4 @@ Dicas de capabilities:
 - Utils - métodos genéricos que podem ser usados durante qualquer parte de um teste.
 
 - ExtentReportsHelpers - métodos referentes ao relatório de execução dos testes automatizados. Toda execução de teste automatizado provê um resultado e screenshots que são armazenados na pasta dos binários Reports;# ApmDesaf
+# ApmDesaf
